@@ -12,7 +12,7 @@ if (status == 'loading' && !document.getElementById('letgothewall')) {
 	div.style.top = '0';
 	div.style.left = '0';
 	div.style.zIndex = '10000001';
-	div.style.width = '2000px';
+	div.style.width = 100%;
 	div.style.height = height + 'px';
 	div.style.background = 'white';
 
